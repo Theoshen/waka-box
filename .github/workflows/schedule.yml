@@ -14,5 +14,5 @@ jobs:
         uses: Theoshen/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: c42ca7d3da928bd3ce78d750a60b28ed
+          GIST_ID: d321d1f0c03493c89a40ed63ffe5c860
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
